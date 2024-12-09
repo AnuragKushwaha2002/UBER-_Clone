@@ -1,11 +1,11 @@
 import React from 'react'
 
-function Home() {
+const CaptainHome = () => {
   return (
     <div>
-      home
+      hoem
     </div>
   )
 }
 
-export default Home
+export default CaptainHome
